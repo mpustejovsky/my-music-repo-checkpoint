@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+#main-dashboard {
+  display: flex;
+  
+}
+
+.root {
+  margin: 10px;
+}
+
+.slider{
+  padding: 5%;
+}
+
+.quality_form {
+  width: 120px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.quality_label {
+ 
+  text-align: center;
+  color: red;
+  }
+
+.notifiy_list{
+  display: inline-block;
+  color: red;
+
+}
+
+#log_out {
+  position: fixed;
+  top:0;
+  right:0;
+}
